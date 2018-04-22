@@ -1,0 +1,11 @@
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\bin\Release\WFA_blth_n_tray.exe.config
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\bin\Release\WFA_blth_n_tray.exe
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\bin\Release\WFA_blth_n_tray.pdb
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\obj\Release\WFA_blth_n_tray.MainForm.resources
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\obj\Release\WFA_blth_n_tray.Properties.Resources.resources
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\obj\Release\WFA_blth_n_tray.csproj.GenerateResource.Cache
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\obj\Release\WFA_blth_n_tray.exe
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\obj\Release\WFA_blth_n_tray.pdb
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\obj\Release\WFA_blth_n_tray.csprojResolveAssemblyReference.cache
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\bin\Release\Kennedy.ManagedHooks.dll
+H:\coding\Visual\WFA_blth_n_tray\WFA_blth_n_tray\bin\Release\Kennedy.ManagedHooks.xml
